@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Continente","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"Campamento","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Bosque","order":3,"parentId":0,"scrollX":819,"scrollY":461}
+]
